@@ -1,0 +1,13 @@
+---
+title: "DeepDriveMD: Deep-Learning Driven Adaptive Molecular Simulations for Protein Folding"
+collection: publications
+permalink: /publication/2019-11-01-DeepDriveMD
+excerpt: 'This paper is about AI-driven workflow on supercomputers'
+date: 2019-11-01
+venue: 'SC19'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/8945122'
+citation: 'Lee, Hyungro, et al. "DeepDriveMD: Deep-learning driven adaptive molecular simulations for protein folding." 2019 IEEE/ACM Third Workshop on Deep Learning on Supercomputers (DLS). IEEE, 2019.'
+---
+
+Simulations of biological macromolecules play an important role in understanding the physical basis of a number of complex processes such as protein folding. Even with increasing computational power and evolution of specialized architectures, the ability to simulate protein folding at atomistic scales still remains challenging. This stems from the dual aspects of high dimensionality of protein conformational landscapes, and the inability of atomistic molecular dynamics (MD) simulations to sufficiently sample these landscapes to observe folding events. Machine learning/deep learning (ML/DL) techniques, when combined with atomistic MD simulations offer the opportunity to potentially overcome these limitations by: (1) effectively reducing the dimensionality of MD simulations to automatically build latent representations that correspond to biophysically relevant reaction coordinates (RCs), and (2) driving MD simulations to automatically sample potentially novel conformational states based on these RCs. We examine how coupling DL approaches with MD simulations can fold small proteins effectively on supercomputers. In particular, we study the computational costs and effectiveness of scaling DL-coupled MD workflows by folding two prototypical systems, viz., Fs-peptide and the fast-folding variant of the villin head piece protein. We demonstrate that a DL driven MD workflow is able to effectively learn latent representations and drive adaptive simulations. Compared to traditional MD-based approaches, our approach achieves an effective performance gain in sampling the folded states by at least 2.3x. Our study provides a quantitative basis to understand how DL driven MD simulations, can lead to effective performance gains and reduced times to solution on supercomputing resources.
+
