@@ -23,7 +23,7 @@ software developments to measure resource efficiency of running the
 applications on high-performance computing. He is also interested in system
 design, performance profiling, and resource monitoring to enable large-scale
 computing and data analysis using workflow tools. He is a member of
-[DeepDriveMD](http://deepdrivemd.github.io/) project to satisfy computational
+[DeepDriveMD](http://deepdrivemd.github.io/) project to support computational
 requirement by harnessing HPC resources and advanced data analytics.
 
 You can find more information in my [CV](https://lee212.github.io/files/cv.pdf).
