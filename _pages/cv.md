@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science Education, Sungkyunkwan University, 2007
+* M.S. in Computer Science, Indiana University, 2010
+* Ph.D in Computer Science, Indiana University, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018 - present: Postdoctoral Research Associate
+  * Department of Electrical and Computer Engineering, Rutgers University, Piscataway, NJ
+  * Performance characterization for ML based applications by profiling and
+    resource analysis as well as improving resource efficiency of large-scale
+workflow on HPC systems.
+  * Supervisor: Professor Shantenu Jha
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014 - 2018: Teaching Assistant
+  * Department of Intelligent Systems Engineering, Indiana University, Bloomington, IN
   
 Skills
 ======
