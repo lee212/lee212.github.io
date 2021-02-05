@@ -1,6 +1,6 @@
 ---
 title: "EnTK"
-excerpt: "Python library for developing and executing large-scale ensemble-based workflows<br/><img src='/images/entk.png' src=500>"
+excerpt: "Python library for developing and executing large-scale ensemble-based workflows<br/><img src='/images/entk.png' width='500'>"
 collection: software
 ---
 
