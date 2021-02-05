@@ -1,6 +1,6 @@
 ---
 title: "MGEScan"
-excerpt: "A Galaxy based system for identifying retrotransposons in genome<br/><img src=/images/mgescan.png>"
+excerpt: "A Galaxy based system for identifying retrotransposons in genome<br/><img src='/images/mgescan.png'>"
 collection: software
 ---
 
