@@ -8,3 +8,6 @@ This project is to build scalable and versatile framework for AI-driven adaptive
 
 - Source code: <https://github.com/DeepDriveMD>
 - Experiments: <https://github.com/radical-experiments/deepdriveMD>
+
+- collaborator: Argonne National Laboratory
+- field: biophysics 

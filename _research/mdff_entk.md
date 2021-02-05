@@ -11,3 +11,6 @@ significant performance improvement.
 
 - source code: <https://github.com/radical-collaboration/MDFF-EnTK/>
 - experiments: <https://github.com/radical-experiments/MDFF-EnTK>
+
+- collaborator: Arizona State University
+- Field: Biophysics
