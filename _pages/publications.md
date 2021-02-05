@@ -11,7 +11,7 @@ You can also find a full list of my articles on <u><a href="https://scholar.goog
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-Selected publications
+Recent publications
 ======================
 
 
